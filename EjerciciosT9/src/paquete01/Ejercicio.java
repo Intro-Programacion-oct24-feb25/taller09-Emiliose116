@@ -17,9 +17,9 @@ public class Ejercicio {
 
         int numElementos;
         String elemento;
-        String mensajeFinal = "Los datos ingresados son:\n";
+        String mensajeFinal = "Los elementos son:\n";
         String letra2;
-        
+
         System.out.println("Ingrese el numero de elementos que quiere "
                 + "ingresar:");
         numElementos = entrada.nextInt();
@@ -36,13 +36,10 @@ public class Ejercicio {
             char letra = elemento.charAt(0);
 
             letra2 = String.valueOf(letra);
-
-            if (letra2.equals("A") || letra2.equals("C") || letra2.equals("T")) {
-
+            if (letra2.equals("A") || letra2.equals("C") || letra2.equals("T")){
             } else {
                 mensajeFinal = String.format("%s%s\n", mensajeFinal,
                         arreglo[i]);
-
             }
         }
         System.out.printf("%s", mensajeFinal);
