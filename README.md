@@ -1,4 +1,6 @@
 # Taller 9 (Laboratorio)
+## Integrantes
+Emilio Cueva, Andrea Arias, Luis Sánchez, Jorge Granda
 ## Construcción de programas usando arreglos unidimensionales
 
 Revisar los ejercicios propuestos en el proyecto de Netbeans denominado: **EjerciciosT9**
