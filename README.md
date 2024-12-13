@@ -1,5 +1,5 @@
 # Taller 9 (Laboratorio)
-##Integrantes
+## Integrantes
 Emilio Cueva
 Daniel Idrovo
 Andrea Arias
